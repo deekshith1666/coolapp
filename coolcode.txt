@@ -1,12 +1,1 @@
-this is my first cool code in visual studio
-so please keep in mind
-this is my second im going to commit second time with this
-i think this is the fourth comiit
-this is the other one
-sixth
-edits done in visual studio
-edits done using website
-ansible is popular confiuratiob
-demonstration of pull
-
->>>>>>> 33156a480fc9793324d0c9ba831dfb624ab0f781
+deleted all
