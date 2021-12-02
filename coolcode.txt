@@ -6,4 +6,7 @@ this is the other one
 sixth
 edits done in visual studio
 edits done using website
+ansible is popular confiuratiob
 demonstration of pull
+
+>>>>>>> 33156a480fc9793324d0c9ba831dfb624ab0f781
