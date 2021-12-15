@@ -5,6 +5,5 @@ new second line added
 deleted all
 >>>>>>> 35c2c9e7b2aeafd05af368b10827d154bb36806ne w
 new version of git installed now
-not working
-oops
+wednesday old version
 
